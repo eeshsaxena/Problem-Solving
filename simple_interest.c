@@ -16,7 +16,7 @@ int main() {
 
     simpleInterest = (principal * rate * time) / 100.0;
 
-    printf("Simple Interest = %.2f\n", simpleInterest);
+    printf("Simple Interest = %f\n", simpleInterest);
 
     return 0;
 }
